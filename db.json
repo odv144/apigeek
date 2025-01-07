@@ -1,52 +1,52 @@
-{"videos":
-[
+{
+  "productos": [
     {
-        "id": 1,
-        "titulo": "John Doe",
-        "categoria": "Desarrollador",
-        "imagen":"https://picsum.photos/200/300",
-        "video":"https://www.youtube.com/embed/fiIbxweAIEM?si=gpRs5SVZ5cXtOm-b",
-        "descripcion":"Preubas de descripcion"
+      "id": "85e3",
+      "nombre": "Memoria DDR4",
+      "precio": "23659",
+      "img": "https://i.postimg.cc/Z5t38Gq7/concepto-13309551.jpg"
     },
     {
-        "id": 2,
-        "titulo": "Omar Virili",
-        "categoria": "Desarrollador",
-        "imagen":"https://picsum.photos/200/300",
-        "video":"https://youtu.be/8x2US-Sz8KQ?si=-XEC_LmTSPbRMu0Y",
-        "descripcion":"Preubas de descripcion"
+      "id": "182f",
+      "nombre": "Disco SSD 480GB",
+      "precio": "45626",
+      "img": "https://i.postimg.cc/WbJgJNsq/Markvision-Disco-SSD-480-Gb-Sata-interno-Bulk-MVSD480-G25.jpg"
     },
     {
-        "id": 3,
-        "titulo": "Pedro",
-        "categoria": "Diseño",
-        "imagen":"https://picsum.photos/200/300",
-        "video":"",
-        "descripcion":"Preubas de descripcion"
+      "id": "2c32",
+      "nombre": "Motherboard B450",
+      "precio": "65459",
+      "img": "https://i.postimg.cc/0QBKb33C/500.png"
     },
     {
-        "id": 4,
-        "titulo": "Ramiro Doe",
-        "categoria": "PowerManager",
-        "imagen":"https://picsum.photos/200/300",
-        "video":"",
-        "descripcion":"Preubas de descripcion"
+      "id": "ba69",
+      "nombre": "Memoria Ram 3200",
+      "precio": "27462",
+      "img": "https://i.postimg.cc/gJS83rw8/ram-ddr4-715x374.webp"
     },
     {
-        "id": 5,
-        "titulo": "Marian Martines",
-        "categoria": "Desarrollador Frontend",
-        "imagen":"https://picsum.photos/200/300",
-        "video":"",
-        "descripcion":"Preubas de descripcion"
+      "id": "a028",
+      "nombre": "Gabinete",
+      "precio": "36985",
+      "img": "https://i.postimg.cc/zGY9WfYy/GAB1698.jpg"
     },
     {
-        "id": 6,
-        "titulo": "Martina Romanina Mani",
-        "categoria": "UX/UI",
-        "imagen":"https://picsum.photos/200/300",
-        "video":"",
-        "descripcion":"Preubas de descripcion"
+      "id": "77ed",
+      "nombre": "Teclado Logitech",
+      "precio": "28003",
+      "img": "https://i.postimg.cc/vZ7CvdG3/TEC280.jpg"
+    },
+    {
+      "id": "be05",
+      "nombre": "Fuente 600w Reales",
+      "precio": "71256",
+      "img": "https://i.postimg.cc/ZqVg1FBN/VAR759.jpg"
+    },
+    {
+      "id": "54aa",
+      "nombre": "Placa de Video",
+      "precio": "95025",
+      "img": "https://i.postimg.cc/QMXw4nts/VGA1418.jpg"
     }
-]
+  ]
 }
